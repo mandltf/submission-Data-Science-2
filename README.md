@@ -5,6 +5,13 @@ Jelaskan latar belakang bisnis dari perushaan tersebut.
 
 ### Permasalahan Bisnis
 Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
+Faktor apa saja yang paling mempengaruhi mahasiswa menjadi Dropout?
+1. Apakah mahasiswa yang menunggak biaya lebih sering dropout?
+2. Apakah beasiswa menurunkan risiko dropout?
+3. Apakah jumlah mata kuliah tidak lulus berpengaruh?
+4. Apakah status ekonomi keluarga berpengaruh?
+5. Apakah yang sudah menikah lebih rawan dropout?
+6. Apakah kondisi ekonomi negara mempengaruhi dropout?
 
 ### Cakupan Proyek
 Tuliskan cakupan proyek yang akan dikerjakan.
