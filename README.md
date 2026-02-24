@@ -86,7 +86,7 @@ streamlit run app.py
 ```
 atau akses
 ```
-
+[Sistem prediksi dropout Jaya Institute](https://jayainstitutestudentdropout.streamlit.app/)
 ```
 
 ## Conclusion
